@@ -1,3 +1,5 @@
+<img align="right" alt="Luffy Gear 5" width="320" src="./luffy.png">
+
 <h1 align="center">¡Hola! 👋 Soy Jhon Alexander Navarro Alvear </h1>
 
 <h3 align="center">
