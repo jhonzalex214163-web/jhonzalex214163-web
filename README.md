@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-¡Hola! 👋 Soy Geovany Manco
+¡Hola! 👋 Soy Jhon Alexander Navarro Alvear
 </h1>
 
 <h3 align="center">
