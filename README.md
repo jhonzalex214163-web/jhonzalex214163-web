@@ -77,6 +77,11 @@ Desarrollo de paneles interactivos para el análisis y visualización de datos m
 ---
 
 ## 📈 Estadísticas
+## 📈 Actividad
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jhonzalex214163-web&theme=github-dark&hide_border=true">
+</p>
 
 <p align="center">
 
