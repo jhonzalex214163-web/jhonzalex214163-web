@@ -9,14 +9,6 @@
 Apasionado por el desarrollo de software, el desarrollo web y el aprendizaje continuo.
 </p>
 
-<h3 align="center">
-💻 Técnico en Programación de Software | Desarrollador Web Junior
-</h3>
-
-<p align="center">
-Apasionado por el desarrollo de software, la resolución de problemas y el aprendizaje continuo.
-</p>
-
 ---
 
 ## 👨‍💻 Sobre mí
