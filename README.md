@@ -1,4 +1,4 @@
-# **<img src="imagen.png" alt="Banner" width="50"> soy Geovany A. Manco Zapata! <img src="imagen.png" alt="Banner" width="50">**
+# **<img src="imagen.png" alt="Banner" width="50"> soy Jhon Alexander Navarro Alvear! <img src="imagen.png" alt="Banner" width="50">**
 
 ## **![][image3]Técnico de programación  | Strategic PMO | Ciberseguridad | Infraestructura | DevSecOps**
 
