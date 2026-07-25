@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="./luffy.png" width="230">
-</p>
 
 <h1 align="center">¡Hola! 👋 Soy Jhon Alexander Navarro Alvear </h1>
 
