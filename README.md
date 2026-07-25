@@ -2,10 +2,6 @@
   <img src="./luffy.png" width="230">
 </p>
 
-<h1 align="center">
-¡Hola! 👋 Soy Jhon Alexander Navarro Alvear
-</h1>
-
 <h3 align="center">
 💻 Técnico en Programación de Software | Desarrollador Web Junior
 </h3>
