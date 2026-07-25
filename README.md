@@ -1,4 +1,4 @@
-# **!<img src="imagen.png" alt="Banner" width="900"> soy Geovany A. Manco Zapata![][image2]**
+# **<img src="imagen.png" alt="Banner" width="50"> soy Geovany A. Manco Zapata![][image2]**
 
 ## **![][image3]Técnico de programación  | Strategic PMO | Ciberseguridad | Infraestructura | DevSecOps**
 
