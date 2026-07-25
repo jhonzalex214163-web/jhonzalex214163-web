@@ -1,4 +1,4 @@
-# **<img src="imagen.png" alt="Banner" width="50"> soy Geovany A. Manco Zapata![][image2]**
+# **<img src="imagen.png" alt="Banner" width="50"> soy Geovany A. Manco Zapata!<img src="imagen.png" alt="Banner" width="50"**
 
 ## **![][image3]Técnico de programación  | Strategic PMO | Ciberseguridad | Infraestructura | DevSecOps**
 
@@ -35,15 +35,20 @@ Mi experiencia me ha permitido participar en proyectos relacionados con:
 # **💻 Tecnologías**
 
 ## **Lenguajes**
-
-**![][image4]**Javascript
-
-![][image5]PHP  
----
-
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" />
+  </p>
 ## **Bases de Datos**
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" width="45" />
+</p>
 
-**![][image6]**
+
+
 
 ---
 
